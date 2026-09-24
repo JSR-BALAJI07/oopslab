@@ -1,0 +1,19 @@
+ds-lab@ds-lab-System-Product-Name:~/bala/oop lab /ex01$ javac ElectBill.java
+ds-lab@ds-lab-System-Product-Name:~/bala/oop lab /ex01$ java ElectBill
+
+	 Enter Consumer number =102
+
+	 Enter Consumer name = Raghav
+
+	 Enter the type of connection = domestic
+
+	 Enter pre_month reading = 150
+
+	 current_month reading = 800
+
+	 Customer name =Raghav
+
+	 Total units =650.0
+
+	 Total bill = Rs 3900.0
+
